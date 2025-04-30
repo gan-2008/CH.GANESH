@@ -1,0 +1,31 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!doctype.html>
+<html>
+	<head>
+		<title>form</title>
+	<body id='b1'>
+<form>
+	write your feedback<br/>
+	textarea cls='25'rows='7' name='fdb'<br/>
+	<input type='submit'/>&nbsp:<input type='reset'/>
+</form>
+</body>
+</html>
+
+
+
